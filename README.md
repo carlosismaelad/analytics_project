@@ -6,10 +6,10 @@ Neste projeto eu aprendi como criar uma aplicação Django simples e como exibir
 
 ## Tecnologias usadas
 
-1 - Python 3.11.3
-2- Django
-3 - SQLite
-4 - Ambiente virtual
+1 - Python 3.11.3;
+2- Django;
+3 - SQLite;
+4 - Ambiente virtual;
 5 - Tabelas e gráficos do Flexmonster (biblioteca do JavaScript)
 
 ## Como rodar o programa?
@@ -17,8 +17,10 @@ Neste projeto eu aprendi como criar uma aplicação Django simples e como exibir
 1 - crie um ambiente virtual com o comando "python3 -m venv nome-que-quiser-dar";
 
 2 - Ativo o ambiente virtual:
-Linux -> source nome_do_ambriente/bin/activate
-Windows -> Linux -> source nome_do_ambriente/script/activate
+
+Linux -> source nome_do_ambiente/bin/activate;
+
+Windows -> Linux -> source nome_do_ambiente/script/activate
 
 3 - Com o ambiente ativado, baixo o Django com o comando "pip install django";
 
